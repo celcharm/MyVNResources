@@ -1,0 +1,9 @@
+running ['C:\\Users\\klteh_000\\Desktop\\Charming Celine Project\\renpy-6.99.13-sdk\\lib\\windows-i686\\zsync.exe', '-o', 'C:\\Users\\klteh_000\\Desktop\\Charming Celine Project\\renpy-6.99.13-sdk\\update\\editra-windows.update.new', '-k', 'C:\\Users\\klteh_000\\Desktop\\Charming Celine Project\\renpy-6.99.13-sdk\\update\\editra-windows.zsync', '-i', 'C:\\Users\\klteh_000\\Desktop\\Charming Celine Project\\renpy-6.99.13-sdk\\update\\editra-windows.update', 'http://update.renpy.org/6.99.13/renpy-6.99.13-editra-windows.zsync']
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
+partfile does not exist
